@@ -3,32 +3,29 @@
     width: 300px;
     height: 300px;
     float:left;
+    padding-left: 10cm;
   }
   .caixa2{
     background-color: rgb(30, 210, 96);
     width: 300px;
     height: 300px;
     float:left;
-  }
-  .caixa3{
-    background-color: rgb(144, 23, 47);
-    width: 300px;
-    height: 300px;
-    float:left;
+    border-color: #ea1010;
   }
   .contenidor{
     width: 900px;
     height: 900px;
     border:#2e518b 5px dashed;
+    padding-top: 10cm;
   }
-  *{margin:0;padding:0;box-sizing:border-box;font-size:0;}
+  *{margin:10;padding:5;box-sizing:border-box;font-size:15;}
             
   nav 
       nav lu{
-          display: none;
+          display: unset;
       }
       a{
-      text-decoration:none;
+      text-decoration:underline;
       color:inherit;
       font-size:14px;
       } 
