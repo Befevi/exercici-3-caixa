@@ -6,7 +6,7 @@
      inline-block: l'element tindrà un comportament barreja entre els dos anteriors.  
     inherit= https://developer.mozilla.org/es/docs/Web/CSS/inherit 
     float= és una propietat de posicionament en CSS, és a dir, com s'ubiquen els elements dins d'un document HTML. */
-    {margin:0;padding:0;box-sizing:border-box;font-size:0;}
+    *{margin: 1px;0;padding: 1px;;box-sizing:border-box;font: size 1px;;}
             
     nav 
         nav lu{
