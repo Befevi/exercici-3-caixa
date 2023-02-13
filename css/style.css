@@ -50,3 +50,8 @@ ul, ol {
 }
 		
 
+.h1{
+  size: 30px;
+  color:  rgb(126, 1, 63);
+  text-align: center;
+  }
